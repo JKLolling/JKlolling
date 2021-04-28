@@ -1,7 +1,15 @@
-### Hi there 👋
+### Howdy Folks 👋
 
+I'm a full stack engineer with a special place in my heart for learning new technologies. While I specialize in JavaScript, React/Redux, Node.js and Python, my one true love is not any single language but rather the rush of making a cool product. Sometimes you'll catch me reinventing the wheel in my spare time, but that's just because I like to see how it works.
+
+I especially love to work on projects that blend creative endeavors with technology. Check out this [SoundCloud Clone](https://sonic-fog.herokuapp.com/), where I contributed a waveform progress bar and a site-wide song player UI!
+
+
+On the personal side of things, my interests are acting, music and the great outdoors. I have a BA in Theatre, which means I'm all about honest and empathetic communication - a skill that has served me well as a pair programmer, a team player and an evolving human. 
 <!--
 **JKLolling/JKlolling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
